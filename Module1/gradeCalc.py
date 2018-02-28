@@ -4,7 +4,7 @@
 # >= 0.8 B
 # >= 0.7 C
 # >= 0.6 D
-# < 0.6 F
+# < 0.5 F
 # If the user enters a value out of range, print a suitable error message and exit. For the test, enter a score of 0.85.
 
 data = input('Enter a grade between 0.0 and 1.0 : ')
